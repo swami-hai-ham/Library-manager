@@ -1,0 +1,8 @@
+Who used which functions:
+
+time: Thu Dec 29 18:22:31 2022
+A thousand splendid suns: Aditi get
+ {'A thousand splendid suns': 'Aditi'}
+time: Thu Dec 29 18:23:10 2022
+A thousand splendid suns: Aditi get
+ {'A thousand splendid suns': 'Aditi'}
